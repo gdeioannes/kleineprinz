@@ -9,13 +9,13 @@ interface BookDic {
 }
 
 function App() {
-  let [searchWord, setSearchWord] = useState<BookDic[]>(book);
+  let [searchWord, setSearchWord] = useState<BookDic[]>([]);
   let inputWord: any = useRef();
 
   function searchWordInJson() {
     console.log(inputWord.current.value);
     if (inputWord.current.value == "") {
-      setSearchWord(book);
+      setSearchWord([]);
     } else {
       let newList: BookDic[] = [];
       book.map((word) => {
