@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/kleineprinz/static/css/main.1426fa11.css",
-    "main.js": "/kleineprinz/static/js/main.61cca2d5.js",
+    "main.css": "/kleineprinz/static/css/main.85a142a6.css",
+    "main.js": "/kleineprinz/static/js/main.d1023e58.js",
     "static/js/787.7306a539.chunk.js": "/kleineprinz/static/js/787.7306a539.chunk.js",
     "index.html": "/kleineprinz/index.html",
-    "main.1426fa11.css.map": "/kleineprinz/static/css/main.1426fa11.css.map",
-    "main.61cca2d5.js.map": "/kleineprinz/static/js/main.61cca2d5.js.map",
+    "main.85a142a6.css.map": "/kleineprinz/static/css/main.85a142a6.css.map",
+    "main.d1023e58.js.map": "/kleineprinz/static/js/main.d1023e58.js.map",
     "787.7306a539.chunk.js.map": "/kleineprinz/static/js/787.7306a539.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1426fa11.css",
-    "static/js/main.61cca2d5.js"
+    "static/css/main.85a142a6.css",
+    "static/js/main.d1023e58.js"
   ]
 }
