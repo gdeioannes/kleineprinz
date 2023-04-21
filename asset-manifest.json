@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/kleineprinz/static/css/main.073c9b0a.css",
-    "main.js": "/kleineprinz/static/js/main.33956c4d.js",
+    "main.css": "/kleineprinz/static/css/main.7a2e7a4b.css",
+    "main.js": "/kleineprinz/static/js/main.db003ac7.js",
     "static/js/787.7306a539.chunk.js": "/kleineprinz/static/js/787.7306a539.chunk.js",
-    "static/media/logo.svg": "/kleineprinz/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/kleineprinz/index.html",
-    "main.073c9b0a.css.map": "/kleineprinz/static/css/main.073c9b0a.css.map",
-    "main.33956c4d.js.map": "/kleineprinz/static/js/main.33956c4d.js.map",
+    "main.7a2e7a4b.css.map": "/kleineprinz/static/css/main.7a2e7a4b.css.map",
+    "main.db003ac7.js.map": "/kleineprinz/static/js/main.db003ac7.js.map",
     "787.7306a539.chunk.js.map": "/kleineprinz/static/js/787.7306a539.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.33956c4d.js"
+    "static/css/main.7a2e7a4b.css",
+    "static/js/main.db003ac7.js"
   ]
 }
